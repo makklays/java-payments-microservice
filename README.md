@@ -3,7 +3,7 @@
 SEPA transfers, Bizum transfers, Internal transfers and Accounts 
 
 <p align="left">
-    <img src="./src/main/resources/static/images/schema-transfers-microservice.png" />
+    <img src="./src/main/resources/static/images/schema-transfers-microservice-1.png" /> 
 </p>
 <p align="left"> 
     <img src="./src/main/resources/static/images/banco4.jpg" width="170" /> 
