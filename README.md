@@ -1,9 +1,11 @@
 # Java Payments Microservice
 
+SEPA transfers, Bizum transfers, Internal transfers and Accounts 
+
 <p align="left">
     <img src="./src/main/resources/static/images/schema-transfers-microservice.png" />
 </p>
-<p align="left">
+<p align="left"> 
     <img src="./src/main/resources/static/images/banco4.jpg" width="170" /> 
     <img src="./src/main/resources/static/images/banco1.jpg" width="170" />
     <img src="./src/main/resources/static/images/banco3.jpg" width="170" />
