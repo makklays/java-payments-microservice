@@ -6,10 +6,8 @@ SEPA transfers, Bizum transfers, Internal transfers and Accounts
     <img src="./src/main/resources/static/images/schema-transfers-microservice-1.png" /> 
 </p>
 <p align="left"> 
-    <img src="./src/main/resources/static/images/banco4.jpg" width="170" /> 
-    <img src="./src/main/resources/static/images/banco1.jpg" width="170" />
-    <img src="./src/main/resources/static/images/banco3.jpg" width="170" />
-    <img src="./src/main/resources/static/images/cards.jpg" width="170" />
+    <img src="./src/main/resources/static/images/payment1.jpeg" width="400" /> 
+    <img src="./src/main/resources/static/images/payment2.jpeg" width="400" />
 </p>
 
 ### Overview
